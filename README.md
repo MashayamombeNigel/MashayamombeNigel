@@ -35,20 +35,34 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 
 ## Tech Stack
 
-<div align="center">
 
-### Engineering Stack
+### Backend
+![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-![Skills](https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,vue,nuxtjs,javascript,typescript,postgres,mysql,redis,docker,linux,nginx,git,github,bash&perline=9)
+### Frontend
+![Vue](https://skillicons.dev/icons?i=vue)
+![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-</div>
+### Data & Caching
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
 
-<br>
-
-<div align="center">
+### Infrastructure & DevOps
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Bash](https://skillicons.dev/icons?i=bash)
 
 ### Security & Operations
-
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
@@ -97,7 +111,7 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) &nbsp;&nbsp;&nbsp; <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 ---
