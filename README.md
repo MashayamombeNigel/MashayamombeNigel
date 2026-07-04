@@ -17,77 +17,59 @@
 
 ## About
 
-I build and deploy production systems across **Python**, **PHP**, and **JavaScript** ecosystems, with experience spanning backend engineering, SaaS platforms, internal tooling, infrastructure, and security-focused solutions.
+I build and deploy production systems across **Python**, **PHP**, and **JavaScript** ecosystems, with experience spanning backend engineering, full-stack applications, internal tooling, infrastructure, security operations, and product development.
 
-My work sits at the intersection of **software engineering**, **automation**, **platform reliability**, and **cybersecurity**.
+My work focuses on building reliable software, scalable platforms, and secure systems that solve real-world problems.
 
 ---
 
 ## Current Focus
 
 - Building scalable SaaS and platform products
-- Backend architecture with FastAPI and Laravel
+- Backend architecture using FastAPI and Laravel
 - Infrastructure automation and deployment workflows
 - Security engineering and defensive operations
-- Developing maintainable systems with strong operational foundations
+- Open-source tooling and developer productivity
 
 ---
-
 
 ## Tech Stack
 
 <div align="center">
 
-### Backend
+### Engineering Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxtjs,html,css" />
-</p>
-
-### Data & Messaging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-### Infrastructure & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,bash" />
-</p>
-
-### Security & Operations
-
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" />
-</p>
+https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,vue,nuxtjs,javascript,typescript,postgres,mysql,redis,docker,linux,nginx,git,github,bash&perline=9
 
 </div>
 
+<br>
+
+<div align="center">
+
+### Security & Operations
+
+https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white
+https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
+https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+https://img.shields.io/badge/Nmap-004170?style=for-the-badge
+https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge
+
+</div>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Core Stack |
-|----------|-------------|------------|
-| **ZimEngage** | Civic engagement and AI-driven participation platform designed for community impact. | FastAPI · Vue · PostgreSQL |
-| **Folio** | Freelancer client portal SaaS focused on collaboration, project delivery, and client management. | Laravel · Vue · Redis |
-| **PriceHound** | Async monitoring and alerting platform for product pricing and market tracking workflows. | Python · FastAPI · PostgreSQL |
-| **PrintExpress** | Business operations platform supporting workflow management and reporting. | Laravel · MySQL |
-| **PrepForge** | Interview preparation platform focused on structured learning and technical assessment. | Node.js · Vue |
-| **Security Labs** | Security engineering experiments, defensive operations, monitoring, and testing playbooks. | Sentinel · OWASP · Linux |
+| Project | Description | Stack |
+|----------|-------------|--------|
+| **ZimEngage** | Civic engagement platform focused on digital participation, transparency, and community impact. | FastAPI · Vue · PostgreSQL |
+| **Folio** | Freelancer client portal SaaS for project delivery, collaboration, and client management. | Laravel · Vue · Redis |
+| **PriceHound** | Async monitoring and alerting platform designed around automation and data collection workflows. | Python · FastAPI · PostgreSQL |
+| **PrintExpress** | Business management platform supporting operational workflows and reporting. | Laravel · MySQL |
+| **PrepForge** | Technical interview preparation platform combining structured learning and assessments. | Node.js · Vue |
+| **Security Labs** | Practical experiments in security engineering, monitoring, and defensive operations. | Sentinel · OWASP · Linux |
 
 ---
 
@@ -95,19 +77,21 @@ My work sits at the intersection of **software engineering**, **automation**, **
 
 <div align="center">
 
-https://github.com/YOUR_USERNAME
+<a href="https://github.com/YOUR_USERNAME">
   https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true
 </a>
 
-https://github.com/YOUR_USERNAME
+<a href="https://github.com/YOUR_USERNAME">
   https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8
 </a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-https://github.com/YOUR_USERNAME
+<a href="https://github.com/YOUR_USERNAME">
   https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true
 </a>
 
@@ -118,12 +102,12 @@ https://github.com/YOUR_USERNAME
 ## Engineering Principles
 
 ```text
-• Build for production, not just demos
+• Build for production, not just demonstrations
 • Prioritize maintainability and reliability
-• Automate repetitive work
 • Treat security as a design requirement
+• Automate repetitive processes
 • Document systems clearly
-• Prefer simplicity over complexity
+• Prefer simplicity over unnecessary complexity
 ```
 
 ---
@@ -136,8 +120,8 @@ https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
   https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 </a>
 
-your.email@example.com
-  https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -146,6 +130,6 @@ your.email@example.com
 
 <div align="center">
 
-**Building reliable software, infrastructure, and secure systems.**
+### Building reliable software, infrastructure, and secure systems.
 
 </div>
