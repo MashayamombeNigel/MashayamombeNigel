@@ -7,8 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&center=true&vCenter=true&width=850&lines=Building+production-grade+software;Full-Stack+Engineer+%28Python+%7C+PHP+%7C+JavaScript%29+%7C+Infrastructure+%26+Security+Focused;Turning+ideas+into+reliable+systems)](https://git.io/typing-svg)
 <br/>
 
-![Zimbabwe](https://img.shields.io/badge/Based%20in-Zimbabwe-181717?style=for-the-badge&logo=googlemapshite
-![Production Systems](https://img.shields.io/badge/Focus-Production%20Systems-0A66C2?style=for-the-badgeo/badge/Security-ISO%2027001%20%7C%20ISC2%20CC-2E8B57?style=for-the-badge
+![Zimbabwe](https://img.shields.io/badge/Based%20in-Zimbabwe-181717?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Production Systems](https://img.shields.io/badge/Focus-Production%20Systems-0A66C2?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-ISO%2027001%20%7C%20ISC2%20CC-2E8B57?style=for-the-badge)
 
 </div>
 
