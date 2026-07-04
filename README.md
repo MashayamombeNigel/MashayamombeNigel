@@ -39,7 +39,7 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 
 ### Engineering Stack
 
-https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,vue,nuxtjs,javascript,typescript,postgres,mysql,redis,docker,linux,nginx,git,github,bash&perline=9
+![Skills](https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,vue,nuxtjs,javascript,typescript,postgres,mysql,redis,docker,linux,nginx,git,github,bash&perline=9)
 
 </div>
 
@@ -49,12 +49,12 @@ https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,vue,nuxtjs,java
 
 ### Security & Operations
 
-https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white
-https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white
-https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
-https://img.shields.io/badge/Nmap-004170?style=for-the-badge
-https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
 
 </div>
 
