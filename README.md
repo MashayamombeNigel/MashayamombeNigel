@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Your Name
+# Hi, I'm Nigel Mashayamombe
 
 ### Full-Stack Engineer & Security Practitioner
 
@@ -89,9 +89,9 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MashayamombeNigel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MashayamombeNigel&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=MashayamombeNigel&theme=github-dark-blue&hide_border=true)
 ---
 
 ## Engineering Principles
