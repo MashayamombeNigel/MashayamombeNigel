@@ -116,9 +116,7 @@ https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge
 
 <div align="center">
 
-https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-  https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
