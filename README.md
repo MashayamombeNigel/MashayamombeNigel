@@ -33,81 +33,48 @@ My work sits at the intersection of **software engineering**, **automation**, **
 
 ---
 
+
 ## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
 ### Backend
 
 <p>
-  https://skillicons.dev/icons?i=python
-  https://skillicons.dev/icons?i=fastapi
-  https://skillicons.dev/icons?i=php
-  https://skillicons.dev/icons?i=laravel
-  https://skillicons.dev/icons?i=nodejs
+  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs" />
 </p>
-
-</td>
-
-<td align="center" width="25%">
 
 ### Frontend
 
 <p>
-  https://skillicons.dev/icons?i=javascript
-  https://skillicons.dev/icons?i=typescript
-  https://skillicons.dev/icons?i=vue
-  https://skillicons.dev/icons?i=nuxtjs
-  https://skillicons.dev/icons?i=html
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxtjs,html,css" />
 </p>
 
-</td>
-
-<td align="center" width="25%">
-
-### Data
+### Data & Messaging
 
 <p>
-  https://skillicons.dev/icons?i=postgres
-  https://skillicons.dev/icons?i=mysql
-  https://skillicons.dev/icons?i=redis
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </p>
 
-</td>
-
-<td align="center" width="25%">
-
-### Infrastructure
+### Infrastructure & DevOps
 
 <p>
-  https://skillicons.dev/icons?i=docker
-  https://skillicons.dev/icons?i=linux
-  https://skillicons.dev/icons?i=nginx
-  https://skillicons.dev/icons?i=git
-  https://skillicons.dev/icons?i=github
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,bash" />
 </p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
 
 ### Security & Operations
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=oft Sentinel](https://img.shields.iotinel-0078D4?style=flat-square&logo=microsoft&logoColor=white
-![OWASP]img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white
-https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white
-https://img.shields.io/badge/Nmap-004170?style=flat-square
-https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" />
+</p>
 
 </div>
+
 
 ---
 
