@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**MashayamombeNigel/MashayamombeNigel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer and Security Practitioner based in Zimbabwe.
 
-Here are some ideas to get you started:
+I build production-focused software across Python, PHP, and JavaScript ecosystems, with experience delivering backend services, SaaS platforms, internal tools, and client-facing systems. My interests sit at the intersection of software engineering, infrastructure, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Building and refining SaaS and platform products
+- Backend architecture with FastAPI and Laravel
+- Cloud-native deployment and automation
+- Security engineering and defensive operations
+- Open-source tooling and developer productivity
+
+## Selected Projects
+
+### ZimEngage
+Civic engagement platform focused on connecting communities and public services.
+
+### Folio
+Freelancer client portal and project management SaaS.
+
+### PriceHound
+Asynchronous price tracking and alerting platform.
+
+### PrintExpress
+Business management system for operational workflows and reporting.
+
+### PrepForge
+Interview preparation and technical learning platform.
+
+## Stack
+
+**Backend**
+
+- FastAPI
+- Laravel
+- Node.js
+
+**Frontend**
+
+- Vue
+- Nuxt
+- JavaScript
+
+**Data**
+
+- PostgreSQL
+- Redis
+
+**Infrastructure**
+
+- Docker
+- Linux
+- Nginx
+- Cloudflare
+
+**Security**
+
+- ISO/IEC 27001
+- ISC2 CC
+- Microsoft Sentinel
+- OWASP
+- Wireshark
+- Burp Suite
+- Nmap
+
+## Contact
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
+
+Open to engineering, platform, infrastructure, and security-focused opportunities.
