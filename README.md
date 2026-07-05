@@ -75,23 +75,26 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 ---
 
 ## Featured Projects
-
 | Project | Description | Stack |
-|----------|-------------|--------|
-| **ZimEngage** | Civic engagement platform focused on digital participation, transparency, and community impact. | FastAPI · Vue · PostgreSQL |
-| **Folio** | Freelancer client portal SaaS for project delivery, collaboration, and client management. | Laravel · Vue · Redis |
-| **PriceHound** | Async monitoring and alerting platform designed around automation and data collection workflows. | Python · FastAPI · PostgreSQL |
-| **PrintExpress** | Business management platform supporting operational workflows and reporting. | Laravel · MySQL |
-| **PrepForge** | Technical interview preparation platform combining structured learning and assessments. | Node.js · Vue |
-| **Security Labs** | Practical experiments in security engineering, monitoring, and defensive operations. | Sentinel · OWASP · Linux |
-
+|---|---|---|
+| [**⬡ PriceHound**](https://github.com/MashayamombeNigel/pricehound) | Price tracking & alerts platform with scraping and caching | `Python` `FastAPI` `PostgreSQL` `Redis` |
+| [**⬡ Folio**](https://github.com/MashayamombeNigel/folio) | Freelancer client portal SaaS | `FastAPI` `Nuxt 3` `PostgreSQL` `Stripe` |
+| [**⬡ PrepForge**](https://github.com/MashayamombeNigel/prepforge) | Quiz platform with analytics dashboard | `Laravel 12` `Vue 3` `Inertia.js` |
+| [**⬡ PrintExpress**](https://github.com/MashayamombeNigel/printexpress) | Print & services business platform with QR generation and WhatsApp notifications | `Laravel 12` `Filament v4` `PostgreSQL` |
 ---
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MashayamombeNigel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MashayamombeNigel&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com?user=MashayamombeNigel&theme=github-dark-blue&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MashayamombeNigel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashayamombeNigel&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MashayamombeNigel&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
 ---
 
 ## Engineering Principles
@@ -113,18 +116,19 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 </div>
 
 ---
-
 ## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) &nbsp;&nbsp;&nbsp; <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) &nbsp;&nbsp;&nbsp; <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-MashayamombeNigel-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/MashayamombeNigel)
+
+![Visitors](https://komarev.com/ghpvc/?username=MashayamombeNigel&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
 
 </div>
 ---
 
 <div align="center">
 
-### Building reliable software, infrastructure, and secure systems.
+ <sub><code>// Building reliable software, infrastructure, and secure systems.</code></sub>
 
 </div>
