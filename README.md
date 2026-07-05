@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nigel Mashayamombe
-
-### Full-Stack Engineer & Security Practitioner
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:00D9FF&height=260&section=header&text=Hi,%20I%27m%20Nigel%20Mashayamombe&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%26amp%3B%20Security%20Practitioner&descAlignY=58&descSize=18&descColor=00D9FF)](https://github.com/MashayamombeNigel)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&center=true&vCenter=true&width=850&lines=Building+production-grade+software;Full-Stack+Engineer+%28Python+%7C+PHP+%7C+JavaScript%29+%7C+Infrastructure+%26+Security+Focused;Turning+ideas+into+reliable+systems)](https://git.io/typing-svg)
 <br/>
@@ -12,7 +10,6 @@
 ![Security](https://img.shields.io/badge/Security-ISO%2027001%20%7C%20ISC2%20CC-2E8B57?style=for-the-badge)
 
 </div>
-
 ---
 
 ## About
