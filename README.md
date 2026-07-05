@@ -3,7 +3,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:00D9FF&height=260&section=header&text=Hi,%20I%27m%20Nigel%20Mashayamombe&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%26amp%3B%20Security%20Practitioner&descAlignY=58&descSize=18&descColor=00D9FF)](https://github.com/MashayamombeNigel)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&center=true&vCenter=true&width=850&lines=Building+production-grade+software;Full-Stack+Engineer+%28Python+%7C+PHP+%7C+JavaScript%29+%7C+Infrastructure+%26+Security+Focused;Turning+ideas+into+reliable+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&color=1793D1&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer+%7C+Python+%C2%B7+PHP+%C2%B7+JavaScript;Building+production+systems%2C+not+just+demos;ISO+27001+Certified+%C2%B7+Security-First+Engineering;Pursuing+Microsoft+DP-700+%26+SC-200)](https://git.io/typing-svg)
 
 ![Zimbabwe](https://img.shields.io/badge/Based%20in-Zimbabwe-181717?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Production Systems](https://img.shields.io/badge/Focus-Production%20Systems-0A66C2?style=for-the-badge)
@@ -89,8 +89,7 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MashayamombeNigel&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MashayamombeNigel&theme=dark&hide_border=true&background=0A0E14&ring=1793D1&fire=F6850C&currStreakLabel=1793D1&sideLabels=1793D1&dates=FFFFFF&stroke=0f5c8c&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 </div>
 ---
 
@@ -108,7 +107,7 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 
 <div align="center">
 
-[![Nigel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MashayamombeNigel&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Nigel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MashayamombeNigel&bg_color=0A0E14&color=1793D1&line=0f5c8c&point=FFFFFF&area=true&area_color=0f3a56&hide_border=true&custom_title=Contribution%20Activity&title_color=FFFFFF&text_color=FFFFFF)
 
 </div>
 
