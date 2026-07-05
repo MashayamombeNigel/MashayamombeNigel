@@ -1,16 +1,16 @@
+---
 <div align="center">
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:00D9FF&height=260&section=header&text=Hi,%20I%27m%20Nigel%20Mashayamombe&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%26amp%3B%20Security%20Practitioner&descAlignY=58&descSize=18&descColor=00D9FF)](https://github.com/MashayamombeNigel)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&center=true&vCenter=true&width=850&lines=Building+production-grade+software;Full-Stack+Engineer+%28Python+%7C+PHP+%7C+JavaScript%29+%7C+Infrastructure+%26+Security+Focused;Turning+ideas+into+reliable+systems)](https://git.io/typing-svg)
-<br/>
 
 ![Zimbabwe](https://img.shields.io/badge/Based%20in-Zimbabwe-181717?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Production Systems](https://img.shields.io/badge/Focus-Production%20Systems-0A66C2?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-ISO%2027001%20%7C%20ISC2%20CC-2E8B57?style=for-the-badge)
 
 </div>
----
+
 
 ## About
 
@@ -104,7 +104,7 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 • Document systems clearly
 • Prefer simplicity over unnecessary complexity
 ```
-## `> activity.graph`
+## Activity graph
 
 <div align="center">
 
@@ -117,7 +117,7 @@ My work focuses on building reliable software, scalable platforms, and secure sy
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) &nbsp;&nbsp;&nbsp; <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-MashayamombeNigel-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/MashayamombeNigel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nigel-mashayamombe-4881b1241) &nbsp;&nbsp;&nbsp; <a href="mailto:nigemashayamombe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-MashayamombeNigel-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/MashayamombeNigel)
 
 ![Visitors](https://komarev.com/ghpvc/?username=MashayamombeNigel&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
 
